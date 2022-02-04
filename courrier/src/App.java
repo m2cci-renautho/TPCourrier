@@ -20,5 +20,7 @@ public class App {
         machine.affranchir();
         machine.afficher();
         machine.courriersInvalides();
+
+        System.out.println("Go to : https://www.youtube.com/watch?v=dQw4w9WgXcQ");
     }
 }
