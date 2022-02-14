@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"App"},{"p":"<Unnamed>","l":"Colis"},{"p":"<Unnamed>","l":"Courrier"},{"p":"<Unnamed>","l":"FormatLettre"},{"p":"<Unnamed>","l":"Lettre"},{"p":"<Unnamed>","l":"Machine"},{"p":"<Unnamed>","l":"ModeEnvoi"},{"p":"<Unnamed>","l":"Publicite"}];updateSearchResults();
