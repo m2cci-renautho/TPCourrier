@@ -4,7 +4,7 @@
 
 public class Lettre extends Courrier {
 
-    /**
+    /**     
      * Variable d'instance : le format de la lettre
      */
     private FormatLettre format;
