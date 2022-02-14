@@ -1,5 +1,14 @@
-
+/**
+ * Classe de test du programme
+ */
 public class App {
+
+    /**
+     * Test de l'exécution du programme
+     * 
+     * @param args Arguments de la ligne de commande.
+     * @throws Exception captation des exceptions remontées.
+     */
     public static void main(String[] args) throws Exception {
 
         Machine machine = new Machine(10);

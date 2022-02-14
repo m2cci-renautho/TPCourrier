@@ -6,9 +6,12 @@ import java.util.ArrayList;
  */
 public class Machine {  
     /**
-     * Variables d'instance : la capacité et la liste des courriers à affranchir.
+     *  la capacité de la machine.
      */
     private int capacite;
+    /**
+     * liste des courriers à affranchir.
+     */
     private ArrayList<Courrier> courriers;
 
     /**
