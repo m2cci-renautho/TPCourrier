@@ -1,3 +1,6 @@
+/**
+ * Enumération permettant d'associer le format d'une lettre et son prix.
+ */
 public enum FormatLettre {
     A3(3.5),
     A4(2.5);
